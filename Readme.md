@@ -54,7 +54,7 @@ crudApp/
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/your-repo/crudApp.git
+git clone https://github.com/aniketArun/CRUD-App.git
 ```
 
 ### 2. Configure Database
